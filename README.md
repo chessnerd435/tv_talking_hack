@@ -1,6 +1,6 @@
 # TV Talking Hack
 
-This is a fun tool to control any modern TV from your command line. You can make the TV "speak" messages using its text-to-speech feature, or turn it on/off!
+This is a fun tool to control any lg webos TV from your command line. You can make the TV "speak" messages using its text-to-speech feature, or turn it on/off!
 
 ## Prerequisites
 
