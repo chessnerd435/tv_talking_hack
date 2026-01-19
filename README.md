@@ -1,8 +1,13 @@
 # TV Talking Hack
 
-This is a fun tool to control an LG TV (WebOS) from your command line. You can make the TV "speak" messages using its text-to-speech feature, or turn it on/off!
+This is a fun tool to control any modern TV from your command line. You can make the TV "speak" messages using its text-to-speech feature, or turn it on/off!
 
 ## Prerequisites
+
+```bash
+cd /your/file/location/
+```  
+first you need to cd into the folder
 
 You need **Node.js** installed on your computer.
 - **Mac/Windows**: Download and install from [nodejs.org](https://nodejs.org/).
