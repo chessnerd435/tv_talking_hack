@@ -30,18 +30,11 @@ You need **Node.js** installed on your computer.
 Run the script with Node:
 
 ```bash
-node tv_say.js
+node tv_say.js put anything you want to say here 
 ```
 
 The script is interactive. It will ask you for:
 1.  **IP Address**: The IP address of the TV on your network.
-2.  **Command**: What you want to do (e.g., `speak`, `off`, `on`).
-    - If you choose `speak`, it will ask you what you want the TV to say.
 
-### Examples
 
-- **Make the TV say specific words**:
-  Select `speak` and type: "Hello dad why are you watching this"
 
-- **Turn the TV Off**:
-  Select `off`
