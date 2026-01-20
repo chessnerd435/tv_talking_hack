@@ -4,31 +4,29 @@ This is a fun tool to control any lg webos TV from your command line. You can ma
 
 ## Prerequisites
 
-```bash
-cd /your/file/location/
-```  
-first you need to cd into the folder
+first install node
 
-You need **Node.js** installed on your computer.
+
 - **Mac/Windows**: Download and install from [nodejs.org](https://nodejs.org/).
 - **Linux (Ubuntu/Debian)**:
   ```bash
   sudo apt update
   sudo apt install nodejs npm
   ```
+ 
+```bash
+cd /your/file/location/
+```  
+next you need to cd into the folder that yu have the files that you downloaded in
+
 
 ## How to Install
 
-1.  **Clone the repository** (download the code):
-    ```bash
-    git clone https://github.com/chessnerd435/tv_talking_hack.git
-    cd tv_talking_hack
-    ```
+then you need to instaall node_modules inside the folder
 
-2.  **Install dependencies** (this downloads the "batteries"):
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+```
 
 ## How to Use
 
