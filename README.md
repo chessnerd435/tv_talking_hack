@@ -17,12 +17,12 @@ first install node
 ```bash
 cd /your/file/location/
 ```  
-next you need to cd into the folder that yu have the files that you downloaded in
+next you need to cd into the folder that you have the files that you downloaded in
 
 
 ## How to Install
 
-then you need to instaall node_modules inside the folder
+then you need to install node_modules inside the folder
 
 ```bash
 npm install
